@@ -32,7 +32,7 @@ The dashboard was built to answer the following business questions:
 
 ### 1. Overview Dashboard
 
-![Overview](overview-1.png)
+![Overview](overview.png)
 
 Provides a high-level view of business performance.
 
