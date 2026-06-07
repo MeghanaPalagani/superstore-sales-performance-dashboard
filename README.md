@@ -32,7 +32,7 @@ The dashboard was built to answer the following business questions:
 
 ### 1. Overview Dashboard
 
-![Overview](overview.png)
+![Overview](Screenshots/overview.png)
 
 Provides a high-level view of business performance.
 
@@ -55,7 +55,7 @@ Visuals:
 
 ### 2. Profitability & Discount Analysis
 
-![Profitability](profitability_analysis.png)
+![Profitability](Screenshots/profitability_analysis.png)
 
 Focuses on understanding the relationship between discounts and profitability.
 
@@ -76,7 +76,7 @@ Insights:
 
 ### 3. Detailed Analysis
 
-![Detailed Analysis](<detailed analysis.png>)
+![Detailed Analysis](Screenshots/detailed_analysis.png)
 
 Provides detailed drill-down analysis.
 
